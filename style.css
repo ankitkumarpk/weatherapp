@@ -10,7 +10,8 @@ body {
   background: #E3F2FD;
 }
 h1 {
-  background: #5372F0;
+  background: rgb(31,191,63);
+  background: linear-gradient(90deg, rgba(31,191,63,1) 0%, rgba(77,121,9,1) 26%, rgba(0,212,255,1) 100%);
   font-size: 1.75rem;
   text-align: center;
   padding: 18px 0;
